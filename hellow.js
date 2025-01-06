@@ -2,5 +2,5 @@ const a=()=>{
  allert ("hellow")
 }
 const b=()=>{
-    return 5
+    allert("5")
 }
